@@ -32,7 +32,7 @@ python scripts/benchmark_model_fit.py
 Target variable:
 
 ```text
-qP_mmol_L_h
+qP
 ```
 
 Input data:
