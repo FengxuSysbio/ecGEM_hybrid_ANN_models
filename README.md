@@ -71,7 +71,7 @@ r_0013
 
 Input data:
 
-- Sheet 1: benchmark model data, excluding `qP_mmol_L_h`
+- Sheet 1: benchmark model data
 - Sheet 2: eciFX1172 core metabolic reactions and partial flux data
 - Sample-number and total-sample-count features from both sheets
 
@@ -83,11 +83,11 @@ ann_hybrid_model_results/
 
 Main outputs:
 
-- `r0013_hyperparameter_search.xlsx`
-- `r0013_metrics.xlsx`
-- `r0013_predictions.xlsx`
-- `r0013_ann_model.joblib`
-- `r0013_actual_vs_predicted.png`
+- `qP_hyperparameter_search.xlsx`
+- `qP_metrics.xlsx`
+- `qP_predictions.xlsx`
+- `qP_ann_model.joblib`
+- `qP_actual_vs_predicted.png`
 
 ## Data setup
 
