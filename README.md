@@ -3,8 +3,6 @@
 This repository contains two Python scripts for fitting artificial neural network
 (ANN) regression models using data from `Supplementary Data 3.xlsx`.
 
-Chinese documentation is available in [README_CN.md](README_CN.md).
-
 ## Contents
 
 ```text
